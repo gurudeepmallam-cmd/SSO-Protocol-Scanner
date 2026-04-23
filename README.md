@@ -13,11 +13,7 @@ Table of Contents
 - [Supported Protocols](#-supported-protocols)
 - [Features](#-features)
 - [Installation](#-installation)
-- [Usage](#-usage)
-- [Output Format](#-output-format)
-- [How It Works](#-how-it-works)
- - - [Contributing](#-contributing)
-- [License](#-license)
+-
 
  Problem Statement
 
@@ -95,7 +91,7 @@ echo "https://app.example.com" >> url.txt
 echo "https://dashboard.example.com" >> url.txt
 
 # Step 2: Run the scanner
-python scanner.py --in url.txt --out results_auth.csv
+python scanner.py --in url.txt --out results.csv
 
 # Step 3: Review outputs
 # - results_auth.csv (apps with detected protocols)
