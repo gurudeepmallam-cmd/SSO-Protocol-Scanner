@@ -6,14 +6,6 @@ An automated web application scanner that identifies and classifies Single Sign-
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Playwright](https://img.shields.io/badge/playwright-latest-orange.svg)
 
-Table of Contents
-
-- [Problem Statement](#-problem-statement)
-- [Solution](#-solution)
-- [Supported Protocols](#-supported-protocols)
-- [Features](#-features)
-- [Installation](#-installation)
-- Ethics and usage
 
  Problem Statement
 
