@@ -13,7 +13,7 @@ Table of Contents
 - [Supported Protocols](#-supported-protocols)
 - [Features](#-features)
 - [Installation](#-installation)
--
+- Ethics and usage
 
  Problem Statement
 
@@ -282,3 +282,20 @@ Report Generation
 Splits results into auth-detected and no-auth files
 Outputs structured CSV with comprehensive column set
 Includes diagnostic notes for troubleshooting
+
+##Ethics and usage
+
+
+Responsible Use
+
+✅ Use only on applications you own or have explicit permission to test
+✅ Respect robots.txt and rate limiting policies
+✅ Be mindful of production environments during business hours
+✅ Do not use for unauthorized access attempts or penetration testing without authorization
+✅ Follow your organization's security and compliance policies
+
+Data Privacy
+
+The scanner captures authentication metadata (URLs, protocol details) but does not capture credentials
+No passwords, tokens, or sensitive data are logged
+Review CSV outputs before sharing to ensure no sensitive information is included
