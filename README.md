@@ -16,9 +16,7 @@ Table of Contents
 - [Usage](#-usage)
 - [Output Format](#-output-format)
 - [How It Works](#-how-it-works)
-- [Screenshots](#-screenshots)
-- [Limitations](#-limitations)
-- [Contributing](#-contributing)
+ - - [Contributing](#-contributing)
 - [License](#-license)
 
  Problem Statement
