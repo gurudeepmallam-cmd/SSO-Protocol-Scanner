@@ -1,0 +1,1 @@
+input_url,status,protocol,protocol_flow,flow,is_oidc,response_type,response_mode,tenant_host,client_id,code_challenge_method,x_client_sku,x_client_ver,authorize_url,saml_binding,relay_state,idp_host,wa,wtrealm,wreply,wctx,auto_click_used,notes
